@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-**Live Site:** [deerureddy.github.io/portfolio](https://deerureddy.github.io/portfolio/)
+**Live Site:** [deerureddy.github.io/profile](https://deerureddy.github.io/profile/)
 
 This is a personal portfolio website built to showcase my skills, projects, and professional background. Hosted using **GitHub Pages**, this responsive site is designed to provide a clean and modern look with intuitive navigation.
 
@@ -32,7 +32,7 @@ To run or modify this site locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/deerureddy/portfolio.git
+git clone https://github.com/deerureddy/profile.git
 cd portfolio
 
 # Open index.html in browser
@@ -56,7 +56,7 @@ git push origin main
 ```
 
 GitHub will automatically update the live site at:
-👉 [https://deerureddy.github.io/portfolio/](https://deerureddy.github.io/portfolio/)
+👉 [https://deerureddy.github.io/profile/](https://deerureddy.github.io/profile/)
 
 ---
 
@@ -70,4 +70,4 @@ Feel free to connect with me!
 ---
 
 Happy to help you upgrade your portfolio.
-```
+
